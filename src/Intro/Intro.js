@@ -7,6 +7,8 @@ class Intro extends Component {
     return  <section id="intro" className="main">
       <FontAwesomeIcon icon={faGraduationCap}></FontAwesomeIcon>
       <h2>I miei studi</h2>
+      <h4> Università degli Studi di Milano Bicocca</h4>
+      <h5> Laurea Triennale in Informatica</h5>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae<br/>
         malesuada turpis. Nam pellentesque in ac aliquam. Aliquam tempor<br/>
         mi porta egestas maximus lorem ipsum dolor.</p>
