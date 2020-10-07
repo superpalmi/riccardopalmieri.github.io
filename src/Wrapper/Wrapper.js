@@ -15,7 +15,7 @@ class Wrapper extends Component {
       <section className="main items">
 
         <Item headerTitle="titolo header 1" headerImg="" headerImgHref="#" itemText="testo dell'item 1" buttonHref="#" buttonText="Clicca qui" > </Item>
-        <Item headerTitle="titolo header 2" headerImg="" headerImgHref="#" itemText="testo dell'item 2" buttonHref="#" buttonText="Clicca qui" > </Item>
+        <Item headerTitle="titolo header 2" headerImg="" headerImgHref="#" itemText="testo dell'item 2212222222" buttonHref="#" buttonText="Clicca qui" > </Item>
 
 
       </section>
