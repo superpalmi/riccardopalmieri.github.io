@@ -14,6 +14,9 @@ class Footer extends Component {
       </ul>
       <p className="copyright">&copy; Riccardo Palmieri. Design: <a href="https://templated.co">TEMPLATED</a>. Images: <a
           href="https://unsplash.com">Unsplash</a>.</p>
+      <p  className="copyright">
+        Website built with React
+      </p>
     </footer>;
   }
 }
