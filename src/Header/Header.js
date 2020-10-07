@@ -30,7 +30,7 @@ class Header extends Component {
           </Container>
 
           <h1>Riccardo Palmieri</h1>
-          <p>Junior Java Developer</p>
+          <p>Junior Java Developer, Computer Science Student</p>
           <p>Milan, Italy</p>
         </div>
 
